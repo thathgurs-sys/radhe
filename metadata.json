@@ -1,0 +1,6 @@
+{
+  "name": "ÉLAN JEWELS - Luxury Fine Jewelry",
+  "description": "High-end luxury jewelry e-commerce platform and complete PHP/MySQL store architecture with customer shopping, cart, checkout, and full admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

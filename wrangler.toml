@@ -1,0 +1,8 @@
+# Cloudflare Pages Configuration (100% Free Hosting, No Card/Billing Required)
+name = "elan-jewels"
+compatibility_date = "2026-10-09"
+pages_build_output_dir = "dist"
+
+[vars]
+ENVIRONMENT = "production"
+SITE_NAME = "ÉLAN JEWELS"
